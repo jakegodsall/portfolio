@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="120.687" height="136.282" viewBox="0, 0, 120.687, 136.282">
+  <g id="Layer_1">
+    <g>
+      <g>
+        <path d="M60.844,130.913 C28.069,130.913 1.5,106.006 1.5,75.282 C1.5,44.558 28.069,19.651 60.844,19.651 C93.618,19.651 120.187,44.558 120.187,75.282 C120.187,106.006 93.618,130.913 60.844,130.913 z" fill="#7F7F7F"/>
+        <path d="M60.844,130.913 C28.069,130.913 1.5,106.006 1.5,75.282 C1.5,44.558 28.069,19.651 60.844,19.651 C93.618,19.651 120.187,44.558 120.187,75.282 C120.187,106.006 93.618,130.913 60.844,130.913 z" fill-opacity="0" stroke="#7F7F7F" stroke-width="1"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 45.052, 57.5)">
+        <tspan x="-16.365" y="22.5" font-family="Apple-Chancery" font-size="72" fill="#FFFB43">J</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 69.49, 78.782)">
+        <tspan x="-23.836" y="22.5" font-family="Apple-Chancery" font-size="72" fill="#FFFB43">G</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
