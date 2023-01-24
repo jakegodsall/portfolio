@@ -40,12 +40,18 @@ const Navbar = () => {
                     </div>
                 </div>
             </div>
-            <div className={!nav ? 'fixed left-0 top-0 w-full h-screen bg-black/70' : ''}>
+            <div
+                className={
+                    nav
+                        ? 'md:hidden fixed left-0 top-0 w-full h-screen bg-black/70 ease-in-out duration-500'
+                        : ''
+                }
+            >
                 <div
                     className={
-                        !nav
-                            ? 'fixed left-0 top-0 w-[75%] sm:w-[60%] m:w-[%45%] h-screen bg-[#ecf0f3] p-10 ease-in duration-500'
-                            : 'fixed left-[-100%] top-0 ease-in p-10 duration-500'
+                        nav
+                            ? ' fixed left-0 top-0 w-[75%] sm:w-[60%] m:w-[%45%] h-screen bg-[#ecf0f3] p-10 ease-in duration-1000'
+                            : 'fixed left-[-150%] top-0 ease-in p-10 duration-700'
                     }
                 >
                     <div>
